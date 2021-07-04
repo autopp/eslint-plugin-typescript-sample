@@ -1,5 +1,5 @@
 {
-  "name": "typescript-eslint-plugin",
+  "name": "eslint-plugin-typescript-sample",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
