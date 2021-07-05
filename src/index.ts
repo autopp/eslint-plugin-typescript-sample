@@ -16,7 +16,7 @@
 
 import { noHello } from "./no-hello"
 
-module.exports = {
+export = {
   rules: {
     'no-hello': noHello
   },
